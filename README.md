@@ -6,7 +6,7 @@ The final Japanese release of Capcom's *Zombie Cafe*, translated into English an
 
 [Download v0.1](https://github.com/dark-chocolate-enjoyer/zombie-cafe-revival-jp/releases/tag/v0.1)
 
-For the English version, check out [Zombie Cafe Revival](https://github.com/dark-chocolate-enjoyer/zombie-cafe-revival-android).
+For the English version (game version 1.1.2.0a), check out [Zombie Cafe Revival](https://github.com/dark-chocolate-enjoyer/zombie-cafe-revival-android).
 
 How it was made: [AI workflow](https://dark-chocolate-enjoyer.github.io/zombie-cafe-revival-android/) · [Technical write-up](https://dark-chocolate-enjoyer.github.io/zombie-cafe-revival-android/technical-writeup.html)
 
